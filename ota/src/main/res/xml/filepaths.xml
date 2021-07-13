@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--root path: Context.getExternalCacheDir()-->
+    <!--<external-cache-path name="external_cache_files" path="ApkFiles"/>-->
+    <!--<external-cache-path name="external_cache_files" path="tencent-cloud"/>-->
+    <external-cache-path name="external_cache_files" path="."/>
+    <cache-path name="internal_cache_files" path="ApkFiles"/>
+    <!--root path: Environment.getExternalStorageDirectory()-->
+    <!--<external-path name="external_picture_files" path="Pictures"/>-->
+</paths>

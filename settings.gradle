@@ -1,0 +1,3 @@
+rootProject.name = "VersionUpdateRepo"
+include ':app'
+include ':ota'
